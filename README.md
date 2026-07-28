@@ -56,7 +56,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 AIR (Augmented Intelligent Reality)
+### 🧠 CODE NAME: AIR (Augmented Intelligent Reality)
 
 AI + WebAR platform for product training & sales
 
@@ -65,6 +65,9 @@ AI + WebAR platform for product training & sales
 * 3D Animated Models
 * WebAR product interaction
 * Analytics
+
+Sample Projects: https://ziya.info.tr/en/blog/augmented-reality
+##### (Get in touch for AI powered demo)
 
 ---
 

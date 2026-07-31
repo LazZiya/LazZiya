@@ -71,6 +71,17 @@ Sample Projects: https://ziya.info.tr/en/blog/augmented-reality
 
 ---
 
+### 🌍 XLocalizer
+
+* Save all localization effort/time of Asp.Net Core applications
+* Auto creation of localization resources
+* Auto translation of localization resources
+* Supports file/db based localization (json, xml, mssql, etc)
+
+📖 https://docs.ziya.info.tr
+
+---
+
 ### 🧩 LazZiya TagHelpers
 
 * Pagination (AJAX + localization)
@@ -81,7 +92,7 @@ Sample Projects: https://ziya.info.tr/en/blog/augmented-reality
 
 ---
 
-### 🌍 WebAR CMS
+### 🌐 WebAR CMS
 
 * 3D model management (.glb)
 * Versioning & branches
